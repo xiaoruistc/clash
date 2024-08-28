@@ -19,9 +19,9 @@ DOMAIN-SUFFIX,etcbbi.xyz
 DOMAIN-SUFFIX,tfbgccc.com
 DOMAIN-SUFFIX,etcbbb.xyz
 DOMAIN-SUFFIX,tfbgbbb.com
-
-
-
+DOMAIN-SUFFIX,tfbgddd.com
+DOMAIN-SUFFIX,tfbgaaa.com
+DOMAIN-SUFFIX,etcbbj.xyz
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
