@@ -22,6 +22,9 @@ DOMAIN-SUFFIX,tfbgbbb.com
 DOMAIN-SUFFIX,tfbgddd.com
 DOMAIN-SUFFIX,tfbgaaa.com
 DOMAIN-SUFFIX,etcbbj.xyz
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
