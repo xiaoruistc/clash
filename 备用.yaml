@@ -2,7 +2,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "https://times1743416610.subtangniu.top:9606/v2b/kuaiqiangshou/api/v1/client/subscribe?token=e732e457e885b351a8859b4f0a9b5b15"
+    url: "https://times1743414655.subtangniu.top:9606/v2b/kuaiqiangshou/api/v1/client/subscribe?token=e32abbb437b8b2862ce8034ea67aa93f"
     type: http
     interval: 86400
     health-check:
