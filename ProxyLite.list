@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,etcbbj.xyz
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,keeflys.com
+DOMAIN-SUFFIX,pipecdn.vip
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
