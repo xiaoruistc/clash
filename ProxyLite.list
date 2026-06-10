@@ -10,6 +10,17 @@
 # SRC-PORT,7777,DIRECT #匹配数据源端口(直连)
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,global.ssl.fastly.net
+DOMAIN-SUFFIX,github.global.ssl.fastly.net
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,cocopilot.org
+
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,iyf.tv
 DOMAIN-SUFFIX,hlive.io
